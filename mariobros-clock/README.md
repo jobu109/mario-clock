@@ -1,4 +1,6 @@
 # Mario Bros. Clock
+************************************************************************
+
 This is based off of jnthas original mario bros clock project. I have just modified/added some code to spruce things up a little for my own preferences. 
 
 - removed the hill and bush objects
@@ -11,12 +13,7 @@ This is based off of jnthas original mario bros clock project. I have just modif
 - added collision detection with animation betweeen mario landing and goomba squishing
 - added collision detection from blocks to make koopa hide
 
-
-
-> NOTE: I'm currently working on and updating the Clockwise [repository](https://github.com/jnthas/clockwise). It contains not only the Mario Clock but others too. Check it out! 
-
-
-![alt text](https://github.com/jnthas/mariobros-clock/blob/gh-pages/mario-clock.gif?raw=true)
+*************************************************************************
 
 Super Mario World on the SNES was probably one of the games my brother and I played the most in our lives. So the emotional connection with the plumbers starts there. The first games of the franchise, still on the NES, were revolutionary and represented a great relief for the gaming industry that was going through a bad phase in the first half of the 80's. This article guides you to create an animated Mario clock that can be a retro decorative object for any environment.
 
